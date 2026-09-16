@@ -73,3 +73,7 @@ Analyze larger packet captures
 Investigate additional protocols
 Automate parts of the analysis using Python
 Develop more advanced network anomaly detection techniques
+
+## 📸 Packet Analysis
+
+![Wireshark Packet Analysis](screenshots/packet-analysis.png)
