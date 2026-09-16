@@ -1,0 +1,3 @@
+# Image Description
+# Wireshark packet capture showing real-time network traffic analysis
+The capture displays TCP, HTTP, ARP, IPv6, and IGMP packets exchanged between multiple devices on a local network. The packet details include source and destination addresses, protocols, packet lengths, TCP connection handshakes, HTTP requests and responses, ARP address resolution, and multicast traffic. This demonstrates practical packet-level analysis and investigation using Wireshark.
