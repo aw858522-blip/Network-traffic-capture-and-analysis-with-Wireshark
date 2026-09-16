@@ -1,9 +1,9 @@
  # Network Traffic Capture and Analysis with Wireshark
-   Overview
+  # Overview
 
 This project demonstrates practical network traffic capture and analysis using Wireshark. The goal is to understand how network communications work at packet level and identify useful information from captured traffic.
 
-   Objectives
+  # Objectives
 Capture network traffic in an authorized environment
 Identify common network protocols
 Analyze TCP and UDP communications
@@ -15,7 +15,7 @@ Identify unusual or noteworthy traffic patterns
 Wireshark
 Windows/Linux
 TCP/IP
-   Analysis
+   # Analysis
 
 The captured traffic was examined using Wireshark's packet inspection and filtering capabilities.
 
@@ -33,30 +33,30 @@ DNS Analysis
 
 Examined DNS queries to understand how domain names are resolved into IP addresses.
 
-TCP Analysis
+# TCP Analysis
 
 Analyzed TCP communication, including connection establishment and packet exchanges.
 
-Protocol Analysis
+# Protocol Analysis
 
 Used Wireshark statistics and packet details to identify protocols present in the capture.
 
-IP Analysis
+# IP Analysis
 
 Investigated communication between different hosts and examined network conversations.
 
-  Screenshots
+  # Screenshots
 
 Screenshots of the analysis are included in the screenshots/ directory.
 
-📁 Project Structure
+# 📁 Project Structure
 network-traffic-capture-analysis/
 ├── README.md
 ├── captures/
 ├── analysis/
 ├── screenshots/
 └── report/
- Skills Demonstrated
+ # Skills Demonstrated
 Network traffic analysis
 Packet capture and inspection
 TCP/IP fundamentals
@@ -64,11 +64,11 @@ DNS analysis
 Wireshark filtering
 Network troubleshooting
 Basic security investigation
-⚠️ Disclaimer
+# ⚠️ Disclaimer
 
 All traffic analyzed in this project was captured from an authorized environment for educational and cybersecurity learning purposes.
 
-  Future Improvements
+  # Future Improvements
 Analyze larger packet captures
 Investigate additional protocols
 Automate parts of the analysis using Python
